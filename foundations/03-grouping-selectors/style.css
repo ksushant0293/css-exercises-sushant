@@ -1,0 +1,11 @@
+.container, .bigcontainer {
+    font-size: 28px;
+    font-family: 'Times New Roman',Helvetica, sans-serif;
+}
+.container {
+    background-color: black;
+    color: white;
+}
+.bigcontainer {
+    background-color: yellow;
+}
